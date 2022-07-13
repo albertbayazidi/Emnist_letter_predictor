@@ -5,7 +5,7 @@ This is a nootbook containing a simple neural network that was traind on the Emn
 
 
 ## Usage  
-Given a 28x28 image of a letter the program can with 88.673%% ± 0.384% accuracy geuess the letter.
+Given a 28x28 image of a letter the program can with 88.673% ± 0.384% accuracy geuess the letter.
 
 
 ## Functionality  
