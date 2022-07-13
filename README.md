@@ -1,16 +1,16 @@
 # Emnist letter recognition
 
 ## Overview  
-This is a nootbook containing a simple neural network that was traind on the Emnist letter dataset.
+This is a notebook containing a simple neural network that was trained on the Emnist letter dataset.
 
 
 ## Usage  
-Given a 28x28 image of a letter the program can with 88.673% ± 0.384% accuracy geuess the letter.
+Given a 28x28 image of a letter the program can with 88.673% ± 0.384% accuracy guess the letter.
 
 
 ## Functionality  
-The neural network was built using the PyTorch framwork. It has one hidden layer of size 500, uses leakyReLu as it activation fuction,
-and stochastic gradient descent (SGD) as its optimizer. The code can be used with GPU and CPU. With a Google colaboratory account you can borrow a GPU for training, which reduces the time it takes with about 27% deppending on number of epochs   
+The neural network was built using the PyTorch framework. It has one hidden layer of size 500, uses leakyReLu as its activation fuction,
+and stochastic gradient descent (SGD) as its optimizer. The code can be used with GPU and CPU. With a Google colaboratory account you can borrow a GPU for training, which reduces the time it takes with about 27% depending on the number of epochs.  
 
 
 
