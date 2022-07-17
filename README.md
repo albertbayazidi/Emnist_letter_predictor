@@ -10,7 +10,7 @@ Given a 28x28 image of a letter the program can with 88.673% ± 0.384% accuracy 
 
 ## Functionality  
 The neural network was built using the PyTorch framework. It has one hidden layer of size 500, uses leakyReLu as its activation fuction,
-and stochastic gradient descent (SGD) as its optimizer. The code can be used with GPU and CPU. With a Google colaboratory account you can borrow a GPU for training, which reduces the time it takes with about 27% depending on the number of epochs.  
+and stochastic gradient descent (SGD) as its optimizer. The loss function is CrossEntropyLoss and the guess was made using softmax. The code can be used with GPU and CPU. With a Google colaboratory account you can borrow a GPU for training, which reduces the time it takes with about 27% depending on the number of epochs.  
 
 
 
