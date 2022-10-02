@@ -1,4 +1,4 @@
-# Emnist letter recognition
+# Emnist letter predictor
 
 ## Overview  
 This is a notebook containing a simple neural network that was trained on the Emnist letter dataset.
