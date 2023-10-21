@@ -3,10 +3,13 @@
 ## Overview  
 This is a notebook containing a simple neural network that was trained on the Emnist letter dataset.
 
+Drawing of neural net structure  
+<img src="drawing_nn_Emnist.jpg">
 
 ## Usage  
 Given a 28x28 image of a letter the program can with 88.673% ± 0.384% accuracy guess the letter.
 
+<img src="results.jpg">
 
 ## Functionality  
 The neural network was built using the PyTorch framework. It has one hidden layer of size 500, uses leakyReLu as its activation fuction,
